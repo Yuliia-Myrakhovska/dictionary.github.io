@@ -12,7 +12,8 @@ function displayThemes(themes) {
         const themeLink = document.createElement('a');
         themeLink.className = 'cart';
         
-        themeLink.href = "../word.html"; 
+        // themeLink.href = "../word.html"; 
+        themeLink.href = "./word.html"; 
         themeLink.innerText = theme.name;
 
         themeLink.addEventListener('click', (e) => {
