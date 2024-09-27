@@ -1,6 +1,6 @@
 async function loadThemes() {
     try {
-        const response = await fetch('../word.json'); 
+        const response = await fetch('../json/word.json'); 
         const data = await response.json();
         displayThemes(data.themes);
     } catch (error) {

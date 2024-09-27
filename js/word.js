@@ -42,8 +42,8 @@ function displayWord(index) {
             <div class="card-front">
                 <div class="img-cart"><img src="${word.image}" alt="${word.word}" id="word-image"></div>
                 <p class="name-cart" id="word-name">${word.translation}</p>
-                <i class="bi bi-arrow-bar-down" id="toggle-pronunciation-icon"></i> <!-- Изначально иконка вниз -->
-                <p class="pronunciation" id="word-pronunciation" style="display: none;">${word.pronunciation}</p> <!-- Изначально скрыто -->
+                <i class="bi bi-arrow-bar-down" id="toggle-pronunciation-icon"></i> 
+                <p class="pronunciation" id="word-pronunciation" style="display: none;">${word.pronunciation}</p>
                 <div class="text-cart" id="word-description">${word.description_translation}</div>
             </div>
             <div class="card-back">
@@ -68,11 +68,11 @@ function displayWord(index) {
         if (pronunciation.style.display === 'none') {
             pronunciation.style.display = 'block';
             togglePronunciationIcon.classList.remove('bi-arrow-bar-down');
-            togglePronunciationIcon.classList.add('bi-arrow-bar-up'); // Меняем иконку на стрелку вверх
+            togglePronunciationIcon.classList.add('bi-arrow-bar-up'); 
         } else {
             pronunciation.style.display = 'none';
             togglePronunciationIcon.classList.remove('bi-arrow-bar-up');
-            togglePronunciationIcon.classList.add('bi-arrow-bar-down'); // Меняем иконку обратно на стрелку вниз
+            togglePronunciationIcon.classList.add('bi-arrow-bar-down');
         }
     });
 }
