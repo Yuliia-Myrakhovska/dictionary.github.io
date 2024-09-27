@@ -1,0 +1,114 @@
+@import url("reset.css");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+html,
+body {
+
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(22, 139, 91);
+
+    margin: 10px 0;
+}
+
+.wrapper-cart {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 0 30px;
+    height: 80vh; 
+    width: 100vw; 
+
+    perspective: 1000px;
+}
+
+.link-wrapper {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 0 30px;
+}
+
+.bi {
+    font-size: 50px;
+    color: rgb(22, 139, 91);;
+}
+
+.cart {
+    height: 90%;
+    flex: 1;
+    
+    padding: 20px 0;
+    text-align: center;
+
+    position: relative;
+    cursor: pointer;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+}
+
+.card-inner {
+    box-shadow: 0.5px 0.5px 5px 0.5px rgba(22, 139, 91, 0.5);
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; 
+}
+
+.card-back {
+    transform: rotateY(180deg); 
+}
+
+.card-inner.flipped {
+    transform: rotateY(180deg); 
+}
+
+.disabled {
+    visibility: hidden;
+}
+
+img {
+    margin: 30px 0;
+    height: 90%;
+    width: 80%;
+}
+
+.name-cart, 
+.pronunciation,
+.text-cart,
+.translation,
+.back-description {
+    font-size: 20px;
+}
+
+.bi-arrow-bar-down,
+.bi-arrow-bar-up {
+    font-size: 25px;
+}
+
+
+@media screen and (min-width: 768px) {
+    img {
+        margin: 30px 0;
+        height: 70%;
+        width: 80%;
+    }
+  }
+  

@@ -1,0 +1,45 @@
+@import url("reset.css");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+html,
+body {
+  scroll-behavior: smooth;
+
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(22, 139, 91);
+
+    margin-bottom: 20px;
+}
+
+.wrapper-cart {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0 30px;
+    height: 100vh;
+    width: 100vw;
+}
+
+.cart {
+    box-shadow: .5px .5px 5px .5px rgba(22, 139, 91, 0.5); 
+    transition: transform 0.5s ease-in-out; 
+    padding: 20px 0;  
+    text-align: center; 
+}
+
+.cart:hover {
+    transition: all 0.5s ease-in-out;
+    transform: scale(1.02);;
+}
+
+a {
+    color: rgb(22, 139, 91);
+    font-size: 20px;
+}
