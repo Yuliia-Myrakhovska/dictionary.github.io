@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (selectedTheme) {
         document.getElementById('theme-title').innerText = selectedTheme;
-        loadWords(selectedTheme);
+        loadWords(selectedTheme); 
     } else {
         document.getElementById('theme-title').innerText = "Тема не выбрана";
     }
@@ -12,24 +12,17 @@ document.addEventListener("DOMContentLoaded", function() {
 let words = [];
 let currentWordIndex = 0;
 
-async function loadWords(selectedTheme) {
-    try {
-        const response = await fetch('../word.json');
-        const data = await response.json();
-
-        const theme = data.themes.find(theme => theme.name === selectedTheme);
-        if (theme) {
-            words = theme.words; 
-            if (words.length > 0) {
-                displayWord(currentWordIndex);
-            } else {
-                document.getElementById('word-card').innerText = "Слова не найдены для этой темы.";
-            }
+function loadWords(selectedTheme) {
+    const theme = themes.find(theme => theme.name === selectedTheme); 
+    if (theme) {
+        words = theme.words;
+        if (words.length > 0) {
+            displayWord(currentWordIndex); 
         } else {
-            document.getElementById('word-card').innerText = "Тема не найдена.";
+            document.getElementById('word-card').innerText = "Слова не найдены для этой темы.";
         }
-    } catch (error) {
-        console.error('Ошибка при загрузке слов:', error);
+    } else {
+        document.getElementById('word-card').innerText = "Тема не найдена.";
     }
 }
 
@@ -63,7 +56,7 @@ function displayWord(index) {
     const pronunciation = document.getElementById('word-pronunciation');
     
     togglePronunciationIcon.addEventListener('click', (event) => {
-        event.stopPropagation(); 
+        event.stopPropagation();
 
         if (pronunciation.style.display === 'none') {
             pronunciation.style.display = 'block';

@@ -1,8 +1,6 @@
-async function loadThemes() {
+function loadThemes() {
     try {
-        const response = await fetch('../json/word.json'); 
-        const data = await response.json();
-        displayThemes(data.themes);
+        displayThemes(themes);
     } catch (error) {
         console.error('Ошибка при загрузке данных:', error);
     }
@@ -23,7 +21,7 @@ function displayThemes(themes) {
             window.location.href = themeLink.href; 
         });
 
-        wrapper.appendChild(themeLink);
+        wrapper.appendChild(themeLink); 
     });
 }
 
