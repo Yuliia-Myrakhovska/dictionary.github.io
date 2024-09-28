@@ -48,9 +48,7 @@ body {
     
     padding: 20px 0;
     text-align: center;
-
     position: relative;
-    cursor: pointer;
     transform-style: preserve-3d;
     transition: transform 0.6s;
 }
