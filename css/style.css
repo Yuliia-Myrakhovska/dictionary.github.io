@@ -13,7 +13,7 @@ body {
 
 .wrapper-cart {
   display: flex;
-
+  position: relative;
   height: 100vh;
   width: 100vw;
   gap: 50px;
@@ -21,6 +21,7 @@ body {
 }
 
 .cart {
+  position: relative;
   align-self: center;
   flex: 1;
 
@@ -35,21 +36,20 @@ body {
 }
 
 .cart:hover {
-    transition: all 0.5s ease-in-out;
-    transform: scale(1.05);
-    
+  transition: all 0.5s ease-in-out;
+  transform: scale(1.05);
 }
 
 img {
-  width: 60%;
-  height: 90%;
+  width: 250px;
+  height: 250px;
 
   image-rendering: optimizeQuality;
 }
 
 .name-cart {
-    margin: 20px 0;
-} 
+  margin: 20px 0;
+}
 
 @media screen and (max-width: 768px) {
   html,
@@ -60,7 +60,7 @@ img {
     flex-direction: column;
 
     gap: 30px;
-  padding: 30px;
+    padding: 30px;
   }
 
   img {
