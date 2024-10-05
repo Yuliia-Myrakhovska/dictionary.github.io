@@ -42,8 +42,8 @@ img {
 
 @media screen and (max-width: 768px) {
     .card {
-        width: 380px;
-        height: 380px;
+        width: 350px;
+        height: 350px;
     }
 
     .wrapper-card, .link-wrapper {
