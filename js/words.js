@@ -384,7 +384,7 @@ const themes = [
         pronunciation: "флэтс",
         description: "",
         description_translation: "",
-        image: "./img/dictionary/photo_2024-10-06_01-48-38.jpg",
+        image: "./img/dictionary/photo_2024-10-06_01-54-41.jpg",
       },
       {
         word: "Сумка",
