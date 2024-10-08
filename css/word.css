@@ -29,7 +29,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 0 30px;
-  height: 60vh;
+  height: 75vh;
   width: 100vw;
 
   perspective: 1000px;
@@ -91,8 +91,10 @@ body {
 
 img {
   margin: 30px 0;
-  height: 90%;
-  width: 80%;
+  height: auto; /* Устанавливаем высоту в auto для лучшей адаптивности */
+  max-height: 350px; /* Устанавливаем максимальную высоту изображения */
+  width: auto; /* Устанавливаем ширину в auto для поддержания пропорций */
+  max-width: 90%;
 }
 
 .name-cart,
@@ -106,13 +108,4 @@ img {
 .bi-arrow-bar-down,
 .bi-arrow-bar-up {
   font-size: 25px;
-}
-
-@media screen and (max-width: 768px) {
-  img {
-    margin: 30px 0;
-    position: relative;
-    height: 360px;
-    width: 90%;
-  }
 }

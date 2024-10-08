@@ -464,49 +464,49 @@ const themes = [
         word: "Зубная паста",
         translation: "toothpaste",
         pronunciation: "туθпейст",
-        image: "./img/dictionary/toothpaste.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-20-30.jpg"
       },
       {
         word: "Зубная щетка",
         translation: "toothbrush",
         pronunciation: "туθбраш",
-        image: "./img/dictionary/toothbrush.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-20-48.jpg"
       },
       {
         word: "Крем для лица",
         translation: "face cream",
         pronunciation: "фэйс крим",
-        image: "./img/dictionary/face_cream.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-21-00.jpg"
       },
       {
         word: "Крем для рук",
         translation: "hand cream",
         pronunciation: "хэнд крим",
-        image: "./img/dictionary/hand_cream.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-21-11.jpg"
       },
       {
         word: "Мыло",
         translation: "soap",
         pronunciation: "соуп",
-        image: "./img/dictionary/soap.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-21-22.jpg"
       },
       {
         word: "Прокладка",
         translation: "pad",
         pronunciation: "пэд",
-        image: "./img/dictionary/pad.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-21-33.jpg"
       },
       {
         word: "Умываться",
         translation: "wash face",
         pronunciation: "вош фэйс",
-        image: "./img/dictionary/wash_face.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-21-44.jpg"
       },
       {
         word: "Полотенце",
         translation: "towel",
         pronunciation: "таул",
-        image: "./img/dictionary/towel.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-22-01.jpg"
       }
     ]
   },
@@ -517,37 +517,37 @@ const themes = [
         word: "Банка",
         translation: "jar",
         pronunciation: "джар",
-        image: "./img/dictionary/jar.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-22-15.jpg"
       },
       {
         word: "Бутылка",
         translation: "bottle",
         pronunciation: "ботл",
-        image: "./img/dictionary/bottle.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-22-26.jpg"
       },
       {
         word: "Пакет",
         translation: "bag",
         pronunciation: "бэг",
-        image: "./img/dictionary/bag.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-22-56.jpg"
       },
       {
         word: "Тюбик",
         translation: "tube",
         pronunciation: "тьюб",
-        image: "./img/dictionary/tube.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-23-08.jpg"
       },
       {
         word: "Контейнер",
         translation: "container",
         pronunciation: "контейнэр",
-        image: "./img/dictionary/container.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-22-42.jpg"
       }, 
       {
         word: "Коробка",
         translation: "box",
         pronunciation: "бокс",
-        image: "./img/dictionary/box.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-23-20.jpg"
       }
     ]
   },
@@ -557,38 +557,38 @@ const themes = [
       {
         word: "Пирожное",
         translation: "cakes",
-        pronunciation: "пэстрі",
-        image: "./img/dictionary/pastry.jpg"
+        pronunciation: "кэйкс",
+        image: "./img/dictionary/photo_2024-10-08_17-23-35.jpg"
       },
       {
         word: "Мороженое",
         translation: "ice cream",
         pronunciation: "айс крим",
-        image: "./img/dictionary/ice_cream.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-23-59.jpg"
       },
       {
         word: "Шоколад",
         translation: "chocolate",
         pronunciation: "чоклит",
-        image: "./img/dictionary/chocolate.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-24-10.jpg"
       },
       {
         word: "Печенье",
         translation: "cookie",
         pronunciation: "куки",
-        image: "./img/dictionary/cookie.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-24-19.jpg"
       },
       {
         word: "Конфеты",
         translation: "sweets",
         pronunciation: "свитс",
-        image: "./img/dictionary/candies.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-24-31.jpg"
       },
       {
         word: "Торт",
         translation: "cake",
         pronunciation: "кейк",
-        image: "./img/dictionary/cake.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-24-44.jpg"
       }
     ]
   },
@@ -599,61 +599,61 @@ const themes = [
         word: "Морковь",
         translation: "carrot",
         pronunciation: "кэррот",
-        image: "./img/dictionary/carrot.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-25-03.jpg"
       },
       {
         word: "Огурец",
         translation: "cucumber",
         pronunciation: "кьюкембер",
-        image: "./img/dictionary/cucumber.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-25-14.jpg"
       },
       {
         word: "Помидор",
         translation: "tomato",
         pronunciation: "томэйто",
-        image: "./img/dictionary/tomato.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-25-25.jpg"
       },
       {
         word: "Картошка",
         translation: "potato",
         pronunciation: "потэйто",
-        image: "./img/dictionary/potato.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-25-37.jpg"
       },
       {
         word: "Лук",
         translation: "onion",
         pronunciation: "анйен",
-        image: "./img/dictionary/onion.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-25-47.jpg"
       },
       {
         word: "Капуста",
         translation: "cabbage",
         pronunciation: "кэбидж",
-        image: "./img/dictionary/cabbage.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-25-59.jpg"
       },
       {
         word: "Баклажан",
         translation: "eggplant",
         pronunciation: "эгплэнт",
-        image: "./img/dictionary/eggplant.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-26-09.jpg"
       },
       {
         word: "Кабачок",
         translation: "zucchini",
         pronunciation: "зукини",
-        image: "./img/dictionary/zucchini.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-26-24.jpg"
       },
       {
         word: "Чеснок",
         translation: "garlic",
         pronunciation: "гарлик",
-        image: "./img/dictionary/garlic.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-26-34.jpg"
       },
       {
         word: "Перец",
         translation: "pepper",
         pronunciation: "пэппер",
-        image: "./img/dictionary/pepper.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-26-43.jpg"
       }
     ]
   },  
@@ -664,79 +664,79 @@ const themes = [
         word: "Хлеб",
         translation: "bread",
         pronunciation: "брэд",
-        image: "./img/dictionary/bread.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-26-52.jpg"
       },
       {
         word: "Сыр",
         translation: "cheese",
         pronunciation: "чис",
-        image: "./img/dictionary/cheese.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-27-25.jpg"
       },
       {
         word: "Майонез",
         translation: "mayonnaise",
         pronunciation: "мэйонэз",
-        image: "./img/dictionary/mayonnaise.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-27-43.jpg"
       },
       {
         word: "Кетчуп",
         translation: "ketchup",
         pronunciation: "кэтчап",
-        image: "./img/dictionary/ketchup.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-27-53.jpg"
       },
       {
         word: "Колбаса",
         translation: "sausage",
         pronunciation: "сосидж",
-        image: "./img/dictionary/sausage.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-28-02.jpg"
       },
       {
         word: "Соль",
         translation: "salt",
         pronunciation: "салт",
-        image: "./img/dictionary/salt.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-28-18.jpg"
       },
       {
         word: "Сахар",
         translation: "sugar",
         pronunciation: "шугэр",
-        image: "./img/dictionary/sugar.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-28-33.jpg"
       },
       {
         word: "Шоколадный батончик",
         translation: "chocolate bar",
         pronunciation: "чоклит бар",
-        image: "./img/dictionary/chocolate_bar.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-28-45.jpg"
       },
       {
         word: "Йогурт",
         translation: "yogurt",
         pronunciation: "йогерт",
-        image: "./img/dictionary/yogurt.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-28-58.jpg"
       },
       {
         word: "Яйца",
         translation: "eggs",
         pronunciation: "эгз",
-        image: "./img/dictionary/eggs.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-29-08.jpg"
       },
       {
         word: "Рыба",
         translation: "fish",
         pronunciation: "фиш",
-        image: "./img/dictionary/fish.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-29-18.jpg"
       },
       {
         word: "Мясо",
         translation: "meat",
         pronunciation: "мит",
-        image: "./img/dictionary/meat.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-29-27.jpg"
       },
       {
         word: "Чипсы",
         translation: "chips",
         pronunciation: "чипс",
-        image: "./img/dictionary/chips.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-29-37.jpg"
       }
     ]
   },
@@ -747,97 +747,97 @@ const themes = [
         word: "Рис с мясом",
         translation: "rice with meat",
         pronunciation: "райс уиз мит",
-        image: "./img/dictionary/rice_with_meat.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-29-55.jpg"
       },
       {
         word: "Жареная картошка",
         translation: "fried potatoes",
         pronunciation: "фрайд потэйтос",
-        image: "./img/dictionary/fried_potatoes.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-30-11.jpg"
       },
       {
         word: "Вареная картошка",
         translation: "boiled potatoes",
         pronunciation: "бойлд потэйтос",
-        image: "./img/dictionary/boiled_potatoes.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-30-22.jpg"
       },
       {
         word: "Картофельное пюре",
         translation: "mashed potatoes",
         pronunciation: "мэшт потэйтос",
-        image: "./img/dictionary/mashed_potatoes.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-30-34.jpg"
       },
       {
         word: "Макароны",
         translation: "pasta",
         pronunciation: "паста",
-        image: "./img/dictionary/pasta.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-30-47.jpg"
       },
       {
         word: "Гречка",
         translation: "buckwheat",
         pronunciation: "баквит",
-        image: "./img/dictionary/buckwheat.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-31-01.jpg"
       },
       {
         word: "Хлопья",
         translation: "cereal",
         pronunciation: "сириал",
-        image: "./img/dictionary/cereal.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-31-11.jpg"
       },
       {
         word: "Жареные яйца",
         translation: "fried eggs",
         pronunciation: "фрайд эгз",
-        image: "./img/dictionary/fried_eggs.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-31-22.jpg"
       },
       {
         word: "Вареные яйца",
         translation: "boiled eggs",
         pronunciation: "бойлд эгз",
-        image: "./img/dictionary/boiled_eggs.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-31-32.jpg"
       },
       {
         word: "Оладьи",
         translation: "pancakes",
         pronunciation: "пэнкэйкс",
-        image: "./img/dictionary/pancakes.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-31-52.jpg"
       },
       {
         word: "Булочки",
         translation: "buns",
         pronunciation: "банс",
-        image: "./img/dictionary/buns.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-32-05.jpg"
       },
       {
         word: "Суп",
         translation: "soup",
         pronunciation: "суп",
-        image: "./img/dictionary/soup.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-32-22.jpg"
       },
       {
         word: "Борщ",
         translation: "borscht",
         pronunciation: "борщ",
-        image: "./img/dictionary/borscht.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-32-31.jpg"
       },
       {
         word: "Рамен",
         translation: "ramen",
         pronunciation: "рамэн",
-        image: "./img/dictionary/ramen.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-32-42.jpg"
       },
       {
         word: "Жареное мясо",
         translation: "fried meat",
         pronunciation: "фрайд мит",
-        image: "./img/dictionary/fried_meat.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-32-59.jpg"
       },
       {
         word: "Салат",
         translation: "salad",
         pronunciation: "салэд",
-        image: "./img/dictionary/salad.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-33-10.jpg"
       }
     ]
   },
@@ -848,91 +848,91 @@ const themes = [
         word: "Однотонный",
         translation: "solid color",
         pronunciation: "солид колор",
-        image: "./img/dictionary/solid_color.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-34-23.jpg"
       },
       {
         word: "Разноцветный",
         translation: "multicolored",
         pronunciation: "малтеколорид",
-        image: "./img/dictionary/multicolored.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-33-21.jpg"
       },
       {
         word: "Черный",
         translation: "black",
         pronunciation: "блак",
-        image: "./img/dictionary/black.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-33-29.jpg"
       },
       {
         word: "Светлый",
         translation: "light",
         pronunciation: "лайт",
-        image: "./img/dictionary/light.jpg"
+        image: "./img/dictionary/1ccf5e3b6fbb4b8e1e82c402000625d2.jpg"
       },
       {
         word: "Темный",
         translation: "dark",
         pronunciation: "дарк",
-        image: "./img/dictionary/dark.jpg"
+        image: "./img/dictionary/af6b12d0f2de05bb1141c19b5a79bed5.jpg"
       },
       {
         word: "Белый",
         translation: "white",
         pronunciation: "уайт",
-        image: "./img/dictionary/white.jpg"
+        image: "./img/dictionary/fbd4598ee33c84061afb9851e87a586f.jpg"
       },
       {
         word: "Красный",
         translation: "red",
         pronunciation: "ред",
-        image: "./img/dictionary/red.jpg"
+        image: "./img/dictionary/ef9be57af69c76875599f1fc01e18702.jpg"
       },
       {
         word: "Синий",
         translation: "blue",
         pronunciation: "блу",
-        image: "./img/dictionary/blue.jpg"
+        image: "./img/dictionary/15f6dd55f5d33bba9eb8d497d459eafa.jpg"
       },
       {
         word: "Голубой",
         translation: "light blue",
         pronunciation: "лайт блу",
-        image: "./img/dictionary/light_blue.jpg"
+        image: "./img/dictionary/10a0bd40271a956781b53d93caa5658e.jpg"
       },
       {
         word: "Оранжевый",
         translation: "orange",
         pronunciation: "ориндж",
-        image: "./img/dictionary/orange.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-33-40.jpg"
       },
       {
         word: "Серый",
         translation: "gray",
         pronunciation: "грэй",
-        image: "./img/dictionary/gray.jpg"
+        image: "./img/dictionary/3ea0c6f160269ec0064f7df5fb8217a2.jpg"
       },
       {
         word: "Желтый",
         translation: "yellow",
         pronunciation: "йеллоу",
-        image: "./img/dictionary/yellow.jpg"
+        image: "./img/dictionary/a79c1e8f464809f52915264ec9e79750.jpg"
       },
       {
         word: "Розовый",
         translation: "pink",
         pronunciation: "пинк",
-        image: "./img/dictionary/pink.jpg"
+        image: "./img/dictionary/7086f1a95372197e3e3d5cdfd574efdc.jpg"
       },
       {
         word: "Бежевый",
         translation: "beige",
         pronunciation: "бэйж",
-        image: "./img/dictionary/beige.jpg"
+        image: "./img/dictionary/photo_2024-10-08_17-33-57.jpg"
       },
       {
         word: "Коричневый",
         translation: "brown",
         pronunciation: "браун",
-        image: "./img/dictionary/brown.jpg"
+        image: "./img/dictionary/06147497ef6eb7816d50483b5e9bc42a.jpg"
       }
     ]
   },
