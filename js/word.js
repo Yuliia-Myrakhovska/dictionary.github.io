@@ -37,12 +37,10 @@ function displayWord(index) {
                 <p class="name-cart" id="word-name">${word.translation}</p>
                 <i class="bi bi-arrow-bar-down" id="toggle-pronunciation-icon"></i> 
                 <p class="pronunciation" id="word-pronunciation" style="display: none;">${word.pronunciation}</p>
-                <div class="text-cart" id="word-description">${word.description_translation}</div>
             </div>
             <div class="card-back">
                 <div class="img-cart"><img src="${word.image}" alt="${word.word}" id="word-image"></div>
                 <p class="translation" id="word-translation">${word.word}</p>
-                <p class="back-description">${word.description}</p>
             </div>
         </div>
     `;
