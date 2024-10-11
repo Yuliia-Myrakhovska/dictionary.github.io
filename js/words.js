@@ -501,12 +501,6 @@ const themes = [
         translation: "wash face",
         pronunciation: "вош фэйс",
         image: "./img/dictionary/photo_2024-10-08_17-21-44.jpg"
-      },
-      {
-        word: "Полотенце",
-        translation: "towel",
-        pronunciation: "таул",
-        image: "./img/dictionary/photo_2024-10-08_17-22-01.jpg"
       }
     ]
   },
@@ -1080,6 +1074,101 @@ const themes = [
         translation: "leg",
         pronunciation: "лег",
         image: "./img/dictionary/leg.jpg"
+      }
+    ]
+  },
+  {
+    name: "Ванная",
+    words: [
+      {
+        word: "Ванна",
+        translation: "bathtub",
+        pronunciation: "бæθтʌб",
+        image: "./img/dictionary/bathtub.jpg"
+      },
+      {
+        word: "Душ",
+        translation: "shower",
+        pronunciation: "шауэр",
+        image: "./img/dictionary/shower.jpg"
+      },
+      {
+        word: "Раковина",
+        translation: "sink",
+        pronunciation: "синк",
+        image: "./img/dictionary/sink.jpg"
+      },
+      {
+        word: "Мыло",
+        translation: "soap",
+        pronunciation: "соуп",
+        image: "./img/dictionary/soap.jpg"
+      },
+      {
+        word: "Шампунь",
+        translation: "shampoo",
+        pronunciation: "шæмпу",
+        image: "./img/dictionary/shampoo.jpg"
+      },
+      {
+        word: "Полотенце",
+        translation: "towel",
+        pronunciation: "таʊэл",
+        image: "./img/dictionary/photo_2024-10-08_17-22-01.jpg"
+      },
+      {
+        word: "Зубная щетка",
+        translation: "toothbrush",
+        pronunciation: "туθбрʌш",
+        image: "./img/dictionary/toothbrush.jpg"
+      },
+      {
+        word: "Зубная паста",
+        translation: "toothpaste",
+        pronunciation: "туθпэйст",
+        image: "./img/dictionary/toothpaste.jpg"
+      },
+      {
+        word: "Расческа",
+        translation: "comb",
+        pronunciation: "коʊм",
+        image: "./img/dictionary/comb.jpg"
+      },
+      {
+        word: "Губка",
+        translation: "sponge",
+        pronunciation: "спʌндж",
+        image: "./img/dictionary/sponge.jpg"
+      },
+      {
+        word: "Кран",
+        translation: "tap",
+        pronunciation: "тэп",
+        image: "./img/dictionary/faucet.jpg"
+      },
+      {
+        word: "Унитаз",
+        translation: "toilet",
+        pronunciation: "тойлɪт",
+        image: "./img/dictionary/toilet.jpg"
+      },
+      {
+        word: "Туалетная бумага",
+        translation: "toilet paper",
+        pronunciation: "тойлɪт пэйпər",
+        image: "./img/dictionary/toilet_paper.jpg"
+      },
+      {
+        word: "Гель для душа",
+        translation: "shower gel",
+        pronunciation: "шауэр джел",
+        image: "./img/dictionary/shower_gel.jpg"
+      },
+      {
+        word: "Дезодорант",
+        translation: "deodorant",
+        pronunciation: "диоудəрэнт",
+        image: "./img/dictionary/deodorant.jpg"
       }
     ]
   }
